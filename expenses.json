@@ -1,0 +1,20 @@
+[
+    {
+        "title": "groceries",
+        "amount": 1250.0,
+        "category": "food",
+        "date": "2026-10-20"
+    },
+    {
+        "title": "temples",
+        "amount": 1000.0,
+        "category": "transport",
+        "date": "2026-10-20"
+    },
+    {
+        "title": "charges",
+        "amount": 450.0,
+        "category": "utilities",
+        "date": "2026-10-20"
+    }
+]
